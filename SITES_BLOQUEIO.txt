@@ -7,3 +7,7 @@
 0.0.0.0 www.tiktok.com
 0.0.0.0 open.spotify.com
 0.0.0.0 www.open.spotify.com
+0.0.0.0 facebook.com
+0.0.0.0 facebook.com.br
+0.0.0.0 instagram.com
+0.0.0.0 instagram.com.br
