@@ -1,12 +1,18 @@
-youtube.com
-youtu.be
-googlevideo.com
-youtubei.googleapis.com
-ytimg.com
-facebook.com
-fbcdn.net
-fbsbx.com
-messenger.com
-instagram.com
-cdninstagram.com
-tiktok.com
+0.0.0.0 youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 googlevideo.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 ytimg.com
+
+0.0.0.0 facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 fbsbx.com
+0.0.0.0 messenger.com
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+
+0.0.0.0 open.spotify.com
